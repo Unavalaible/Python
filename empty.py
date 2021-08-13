@@ -10,5 +10,4 @@ hello = Label(root, text="Hello")
 hello.pack()
 
 #hello.pack()
-root.mainloop() 
-locals
+root.mainloop()
